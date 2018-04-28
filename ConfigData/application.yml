@@ -30,3 +30,12 @@ spring:
   profiles: noun
 words: boat,book,vote,seat,backpack,partition,groundhog
   
+---
+spring:
+  profiles: dc
+heroes: Superman,Mujer Maravilla,Batman,Flash,Linterna Verde
+  
+---
+spring:
+  profiles: marvel
+heroes: Iron man,Thor,Spiderman,Hulk,Capitan America
